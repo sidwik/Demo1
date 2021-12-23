@@ -6,5 +6,8 @@ public class Base {
 		// TODO Auto-generated method stub
 
 	}
+	public void screenshot() 
+	{
 
+}
 }
