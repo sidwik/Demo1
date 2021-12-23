@@ -8,6 +8,6 @@ public class Base {
 	}
 	public void screenshot() 
 	{
-
+System.out.println("Ss is taken");
 }
 }
